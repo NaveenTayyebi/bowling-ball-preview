@@ -1,2 +1,2 @@
 # bowling-ball-preview
-![cover](https://www.youtube.com/watch?v=MtTHHIh9n18)
+[![cover](https://img.youtube.com/vi/MtTHHIh9n18/maxresdefault.jpg)](https://www.youtube.com/watch?v=MtTHHIh9n18)
